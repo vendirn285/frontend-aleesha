@@ -21,6 +21,7 @@ module.exports = withMT({
         bgSecondary: '#FAFAF5',
         peach: '#E1D8C0',
         black: '#0B000E',
+        grape: '#ECCFFF',
       },
 
       backgroundImage: {
